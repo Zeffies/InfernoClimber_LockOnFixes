@@ -1,8 +1,8 @@
 video showing what mod does: https://www.youtube.com/watch?v=R7QJ7kxfD1M
 
-When you press the lock-on button in Inferno Climber and your character is facing the opposite direction of the enemy, the camera whips around strangely. Also,
+When you press the lock-on button in Inferno Climber and your character is facing the opposite direction of the enemy, the camera whips around strangely.
 
-when you press the lock-on button to "un-lock on", the y-axis of your camera will reset which can be unexpected during battle, as this is not the case in most other games.
+ Also, when you press the lock-on button to "un-lock on", the y-axis of your camera will reset which can be unexpected during battle, as this is not the case in most other games.
 
 This mod fixes those issues.
 
