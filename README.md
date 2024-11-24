@@ -4,7 +4,9 @@ When you press the lock-on button in Inferno Climber and your character is facin
 
  Also, when you press the lock-on button to "un-lock on", the y-axis of your camera will reset which can be unexpected during battle, as this is not the case in most other games.
 
-This mod fixes those issues.
+This mod fixes those issues. 
+
+NOTE: There can still be a bit of weirdness for what enemy the game decides to lock on to. This mod does not currently effect that behaviour at all. It seems like a hard thing to fix so I might not do that.
 
 - Navigate to Releases on the right sidebar on Github, click the latest release, and download the DLL file and place it in your InfernoClimber\BepInEx\plugins folder. Follow tutorial below if you do not have this.
 
